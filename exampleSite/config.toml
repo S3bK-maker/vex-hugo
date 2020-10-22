@@ -11,10 +11,10 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
-contentDir = "content/french"
+contentDir = "content/german"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-languageCode = "fr-fr"
-languageName = "Fr"
+languageCode = "de-de"
+languageName = "De"
 weight = 2
 [[menu.footer]]
 URL = "privacy-policy"
