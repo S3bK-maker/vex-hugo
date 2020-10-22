@@ -15,7 +15,7 @@ contentDir = "content/german"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "de-de"
 languageName = "De"
-weight = 2
+weight = "0"
 [[menu.footer]]
 URL = "privacy-policy"
 name = "Privacy Policy"
